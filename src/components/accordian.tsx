@@ -46,7 +46,7 @@ export const Accordian = () => {
                 onClick={() => handleClick(item.id)}
               >
                 <div
-                  className="flex gap-[2px] lg:gap-2 text-xl xl:text-3xl font-bold leading-7 sm:leading-normal"
+                  className="flex items-start sm:items-center justify-center gap-[2px] lg:gap-2 text-xl xl:text-3xl font-bold leading-7 sm:leading-normal"
                   style={{ color: "var(--color-foreground)" }}
                 >
                   <span>Q{item.id}. </span>
