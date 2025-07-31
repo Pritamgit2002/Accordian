@@ -6,6 +6,8 @@
 
   --hero-color-foreground: #8800c8;
 
+  --icon-color-foreground: #000000;
+
   --font-geist-sans: "Geist", sans-serif;
   --font-geist-mono: "Geist Mono", monospace;
   --font-dm-sans: "DM Sans", sans-serif;
@@ -16,6 +18,8 @@
   --color-foreground: #ededed;
 
   --hero-color-foreground: #2fc1ff;
+
+  --icon-color-foreground: #ffffff;
 }
 
 body {

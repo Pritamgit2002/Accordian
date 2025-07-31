@@ -18,6 +18,10 @@ const config: Config = {
           background: "var(--hero-color-background)",
           foreground: "var(--hero-color-foreground)",
         },
+
+        icon:{
+          foreground: "var(--icon-color-foreground)",
+        }
       },
     },
   },
